@@ -12,7 +12,6 @@ int main(){
 	cin>>num1;
 	cout<<"Enter second number : ";
 	cin>>num2;
-	
 	add(num1,num2);
 
 }
