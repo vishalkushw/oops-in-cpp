@@ -8,7 +8,7 @@ class Car{
 		int price;
 			
 	void insert_data()	{
-		cout<<"Enter name : ";
+		cout<<"Enter Name : ";
 		cin>>name;
 		cout<<"Enter color : ";
 		cin>>color;
