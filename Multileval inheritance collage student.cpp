@@ -38,7 +38,7 @@ class Student: public School{
 	    roll=rl;
 }
 	    void display(){
-		cout<<"Collage name : "<<clg_name<<endl;
+		cout<<"Collage Name : "<<clg_name<<endl;
 		cout<<"Addres : "<<addres<<endl;
 		cout<<"School name : "<<school_name<<endl;
 		cout<<"Subject : "<<subject<<endl;
