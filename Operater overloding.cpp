@@ -9,7 +9,7 @@ class Operators{
      
     public:
      Operators(int num){
-     marks=num;
+     marks = num;
    }
    
   Operators operator +(Operators obj){
