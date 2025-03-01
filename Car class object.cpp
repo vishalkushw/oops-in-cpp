@@ -18,8 +18,8 @@ class Car{
 	
 	
 	void display_data(){
-		cout<<"Car Name: "<<name<<endl;
-	   	cout<<"Car Color: "<<color<<endl;
+		cout<<"Car Name: "<<name<< endl;
+	   	cout<<"Car Color: "<<color<< endl;
 	   	cout<<"Car Price: "<<price;
 	}
 };
