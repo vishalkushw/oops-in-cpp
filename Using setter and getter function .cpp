@@ -37,7 +37,7 @@ int main(){
 	c.getter();
 	cout<<endl;
 	
-	cout<<"Change value "<<endl;
+	cout<<"Change Value "<<endl;
 	c.setter("Honda","Baleno",2024);
 	c.getter();	
 }
