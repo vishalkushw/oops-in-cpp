@@ -21,6 +21,6 @@ class Employe{
 	   }	
 };
 int main(){
-	Employe st("Vishal kushwah",1020,55000);
+	Employe st("Vishal kushwah",1122,56000);
 	st.display();	
 }
