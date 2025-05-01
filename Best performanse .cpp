@@ -36,7 +36,7 @@ class Employee{
 	void getter(){
 		cout<<"Name:"<<name<<endl;
 		cout<<"Employee ID : "<<employeeID<<endl;
-		cout<<"department:"<<dep<<endl;
+		cout<<"Department:"<<dep<<endl;
 		cout<<"Designation:"<<designation<<endl;
 		cout<<"Performance"<<performance;
 		switch (performance) {
@@ -56,13 +56,13 @@ class Employee{
                 cout << "Best" << endl;
                 break;
             default:
-                cout << "Invalid performance rating" << endl;
+                cout << "Invalid performance Rating" << endl;
         }
 	}
 };
 int main(){
 	Employee emp;
-	emp.setter("vishal",2345,"web developer","eng",4);
+	emp.setter("Vishal",2345,"web developer","eng",4);
 	emp.getter();
 		
 }
