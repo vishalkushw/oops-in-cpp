@@ -43,7 +43,7 @@ class Date {
            daysLeft+=day-tday;
         }
 
-        cout<<"Days remain your birthday is : "<< daysLeft<<endl;
+        cout<<"Days Remain Your Birthday is : "<< daysLeft<<endl;
     }
 
   void display(){
