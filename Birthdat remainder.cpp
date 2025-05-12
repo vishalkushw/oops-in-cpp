@@ -47,10 +47,10 @@ class Date {
     }
 
   void display(){
-    cout<<"My Dob is "<<day<<"/"<<month<<"/"<<year<<endl;
+    cout<<"My Dob Is "<<day<<"/"<<month<<"/"<<year<<endl;
   }
   void todaydate(){
-    cout<<"Today Date is "<<tday<<"/"<<tmonth<<"/"<<tyear<<endl;
+    cout<<"Today Date Is "<<tday<<"/"<<tmonth<<"/"<<tyear<<endl;
   }
   };
 int Date::tday = 16;
