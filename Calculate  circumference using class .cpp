@@ -27,7 +27,7 @@ class Circle{
 };
 int main(){
 	Circle c(6);
-	cout<<"Area : "<<c.calculate_area()<<endl;
-	cout<<"Circumference : "<<c.calculate_circumference();
+	cout<<"Area  : "<<c.calculate_area()<<endl;
+	cout<<"Circumference   : "<<c.calculate_circumference();
 	
 }
