@@ -14,11 +14,11 @@ private:
 
     public:
      void accept(){
-     cout<<"Enter name ";
+     cout<<"Enter Name ";
      cin>>emp_name;
      cout<<"Enter employee id ";
      cin>>emp_id;
-     cout<<"Basic salary ";
+     cout<<"Basic Salary ";
      cin>>basic_sal;
      da=basic_sal/100*10;
      hra=1500;
