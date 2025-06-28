@@ -11,6 +11,6 @@ class top
 };
 
 int main(){
-	top::table(5);
+	top::table(4);
 	
 }
