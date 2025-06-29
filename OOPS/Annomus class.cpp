@@ -1,4 +1,4 @@
-// Annomus class 
+// Annomus Class 
 
 #include <iostream>
 using namespace std;
