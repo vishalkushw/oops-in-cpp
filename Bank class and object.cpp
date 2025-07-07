@@ -37,7 +37,7 @@ void display(){
 }
 };
 int main(){
-    Bank obj1("Vishal",786765,"saving",2300,432);
+    Bank obj1("Vishal",786761,"saving",2400,432);
     obj1.display();
     obj1.deposit(4000,432);
     obj1.display();
