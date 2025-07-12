@@ -49,7 +49,7 @@ public:
 };
 
 int main() {
-    Salary emp1("Vishal", "TCS656", 50000);
+    Salary emp1("Vishal", "TCS456", 50000);
     emp1.display();
 }
 
