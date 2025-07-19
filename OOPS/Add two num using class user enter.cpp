@@ -10,10 +10,10 @@ class Solution{
 };
 int main(){
 	int a,b;
-	cout<<"Enter First number : ";
+	cout<<"Enter First Number : ";
 	cin>>a;
 	cout<<"Enter Second Number : ";
 	cin>>b;
 	Solution obj;
-	cout<<"Addition two number is : "<< obj.add(a,b);	
+	cout<<"Addition two Number is : "<< obj.add(a,b);	
 }
