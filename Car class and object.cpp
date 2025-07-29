@@ -21,6 +21,6 @@ class Car{
 };
 
 int main(){
-	Car cr("Safari","Tata 2020",5000000);
+	Car cr("Safari","Tata 2030",5000000);
 	cr.diplay();
 }
