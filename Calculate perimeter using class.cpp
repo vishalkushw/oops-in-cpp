@@ -26,7 +26,7 @@ class Rectangle{
 	} 
 };
 int main(){
-	Rectangle r(6,5);
+	Rectangle r(8,5);
 	cout<<"Area : "<<r.calculate_area()<<endl;
 	cout<<"Circumference : "<<r.calculate_perimeter();
 	
